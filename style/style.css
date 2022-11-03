@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(85, 126, 126);
+}
+
+.juego1 {
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    height: 340px;
+    width: 49.6%;
+    background-color: rgb(250, 210, 210);
+}
+
+.juego2 {
+    display: inline-block;
+    background-color: darkcyan;
+    height: 340px;
+    width: 49.6%;
+}
+
+.juego3 {
+    display: inline-block;
+    background-color: blue;
+    height: 335px;
+    width: 49.6%;
+}
+
+.juego4 {
+    display: inline-block;
+    background-color: green;
+    height: 335px;
+    width: 49.6%;
+}
